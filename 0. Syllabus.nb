@@ -1,0 +1,119 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 8.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[      3429,        110]
+NotebookOptionsPosition[      2915,         89]
+NotebookOutlinePosition[      3257,        104]
+CellTagsIndexPosition[      3214,        101]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["\<\
+Stat 430/ Math 468 
+Topics in Applied Statistics: 
+Statistical Computing with Mathematica\
+\>", "Title",
+ CellChangeTimes->{{3.535663060349825*^9, 3.5356630920446377`*^9}, 
+   3.5356641619248314`*^9}],
+
+Cell["\<\
+Class Time: 12:30-1:50 pm Tuesday and Thursday
+Location: Ceramics Building 218\
+\>", "Subtitle",
+ CellChangeTimes->{{3.53566315398318*^9, 3.5356631733862906`*^9}, {
+  3.5356632432912884`*^9, 3.535663258437155*^9}, {3.535760014539273*^9, 
+  3.535760024336833*^9}}],
+
+Cell["\<\
+Instructor: Darren Glosemeyer
+email: glosemey@illinois.edu\
+\>", "Subtitle",
+ CellChangeTimes->{{3.5356631311168723`*^9, 3.5356631423065124`*^9}, {
+  3.5359273563633213`*^9, 3.5359273697470865`*^9}}],
+
+Cell[TextData[{
+ "\[OpenCurlyDoubleQuote]Textbook\[CloseCurlyDoubleQuote]: ",
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ " version 8 and course notes"
+}], "Subtitle",
+ CellChangeTimes->{{3.535663271907925*^9, 3.53566331919763*^9}, {
+  3.5356663253298182`*^9, 3.53566635455949*^9}}],
+
+Cell["\<\
+Grading: 
+70% -- 9 Homework assignments (drop lowest 2)
+30% -- Take-home final\t\
+\>", "Subtitle",
+ CellChangeTimes->{{3.535663325921015*^9, 3.5356633786130285`*^9}}],
+
+Cell["\<\
+Office Hours: Illini Hall 113, 2-3pm Tuesday and Thursday (starting Jan. 19)\
+\>", "Subtitle",
+ CellChangeTimes->{{3.53566315398318*^9, 3.5356631733862906`*^9}, {
+  3.5356633929688497`*^9, 3.535663402329385*^9}, {3.5356640041208057`*^9, 
+  3.535664015507457*^9}}],
+
+Cell[TextData[{
+ StyleBox["Mathematica",
+  FontSlant->"Italic"],
+ " 8 on webstore: \nMac: ",
+ ButtonBox["https://webstore.illinois.edu/Shop/product.aspx?zpid=1774",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://webstore.illinois.edu/Shop/product.aspx?zpid=1774"], None},
+  ButtonNote->"https://webstore.illinois.edu/Shop/product.aspx?zpid=1774"],
+ "\nWindows: ",
+ ButtonBox["https://webstore.illinois.edu/Shop/product.aspx?zpid=1607",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://webstore.illinois.edu/Shop/product.aspx?zpid=1607"], None},
+  ButtonNote->"https://webstore.illinois.edu/Shop/product.aspx?zpid=1607"]
+}], "Subtitle",
+ CellChangeTimes->{{3.535663271907925*^9, 3.53566331919763*^9}, {
+  3.5356663253298182`*^9, 3.5356663837831616`*^9}, {3.53566645036697*^9, 
+  3.5356665094393487`*^9}, {3.5357599627983136`*^9, 3.535759999245398*^9}}]
+}, Open  ]]
+},
+WindowSize->{1350, 633},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+FrontEndVersion->"8.0 for Microsoft Windows (64-bit) (October 6, 2011)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[579, 22, 210, 6, 191, "Title"],
+Cell[792, 30, 273, 6, 77, "Subtitle"],
+Cell[1068, 38, 209, 5, 77, "Subtitle"],
+Cell[1280, 45, 288, 7, 50, "Subtitle"],
+Cell[1571, 54, 176, 5, 105, "Subtitle"],
+Cell[1750, 61, 273, 5, 49, "Subtitle"],
+Cell[2026, 68, 873, 18, 106, "Subtitle"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
